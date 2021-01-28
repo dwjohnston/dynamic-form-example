@@ -1,3 +1,9 @@
+Demo for questions around testing with React testing library and user event: 
+
+https://github.com/testing-library/user-event/issues/549
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
